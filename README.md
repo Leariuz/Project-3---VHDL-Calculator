@@ -1,0 +1,1 @@
+This project was done over the course of 4 months. My classmate (Kaden Gardner) and I (Ezequiel Durrant) were able to successfully understand the digital logic involved in making a calculator in VHDL. This included rigirous amounts of planning, testing and executing. We were able to successfully unload the project onto an FPGA. 
