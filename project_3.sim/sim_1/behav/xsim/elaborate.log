@@ -1,0 +1,36 @@
+Vivado Simulator v2024.2.0
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2024.2/bin/unwrapped/win64.o/xelab.exe --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot Calc_SIM_behav xil_defaultlib.Calc_SIM -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling architecture behavioral of entity xil_defaultlib.Command_Controller [command_controller_default]
+Compiling architecture behavioral of entity xil_defaultlib.UI_MUX_8b [ui_mux_8b_default]
+Compiling architecture singlebitadd of entity xil_defaultlib.adder_1b [adder_1b_default]
+Compiling architecture behavioral of entity xil_defaultlib.adder_4b [adder_4b_default]
+Compiling architecture behavioral of entity xil_defaultlib.adder_8b [adder_8b_default]
+Compiling architecture behavioral of entity xil_defaultlib.XOR_8b [xor_8b_default]
+Compiling architecture behavioral of entity xil_defaultlib.Hold_8b [hold_8b_default]
+Compiling architecture behavioral of entity xil_defaultlib.Loader_8b [loader_8b_default]
+Compiling architecture behavioral of entity xil_defaultlib.MUX_8b [mux_8b_default]
+Compiling architecture behavioral of entity xil_defaultlib.ALU_8b [alu_8b_default]
+Compiling architecture behavioral of entity xil_defaultlib.D_flipflop [d_flipflop_default]
+Compiling architecture behavioral of entity xil_defaultlib.accumulator_9bit [accumulator_9bit_default]
+Compiling architecture behavioral of entity xil_defaultlib.Memory_Input [memory_input_default]
+Compiling architecture behavioral of entity xil_defaultlib.accumulator_4bit [accumulator_4bit_default]
+Compiling architecture behavioral of entity xil_defaultlib.TriSel_MUX [trisel_mux_default]
+Compiling architecture behavioral of entity xil_defaultlib.UI_MUX_4b [ui_mux_4b_default]
+Compiling architecture behavioral of entity xil_defaultlib.Address_Sel [address_sel_default]
+Compiling architecture behavioral of entity xil_defaultlib.DataPath [datapath_default]
+Compiling architecture behavioral of entity xil_defaultlib.BlockMem [blockmem_default]
+Compiling architecture behavioral of entity xil_defaultlib.Calculator [calculator_default]
+Compiling architecture behavioral of entity xil_defaultlib.calc_sim
+Built simulation snapshot Calc_SIM_behav

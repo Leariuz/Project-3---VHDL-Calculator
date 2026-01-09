@@ -1,0 +1,1 @@
+--debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "Calc_SIM_behav" "xil_defaultlib.Calc_SIM" -log "elaborate.log" 
